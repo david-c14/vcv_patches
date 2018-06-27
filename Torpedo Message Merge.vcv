@@ -1,0 +1,417 @@
+{
+  "version": "0.6.1",
+  "modules": [
+    {
+      "plugin": "SubmarineFree",
+      "version": "0.6.4",
+      "model": "TD-116",
+      "pos": [
+        69,
+        0
+      ],
+      "params": [],
+      "text": "Testing Message 3",
+      "size": 26.0,
+      "fg": {
+        "r": 1.0,
+        "g": 0.423529446,
+        "b": 0.56078434,
+        "a": 1.0
+      },
+      "bg": {
+        "r": 0.0,
+        "g": 0.325490206,
+        "b": 0.184313729,
+        "a": 1.0
+      }
+    },
+    {
+      "plugin": "SubmarineFree",
+      "version": "0.6.4",
+      "model": "TF-101",
+      "pos": [
+        25,
+        0
+      ],
+      "params": [
+        {
+          "paramId": 0,
+          "value": 0.673500061
+        },
+        {
+          "paramId": 1,
+          "value": 0.657000244
+        },
+        {
+          "paramId": 2,
+          "value": 0.665499926
+        },
+        {
+          "paramId": 3,
+          "value": 0.105000116
+        },
+        {
+          "paramId": 4,
+          "value": 0.0959999859
+        },
+        {
+          "paramId": 5,
+          "value": 0.0855000168
+        },
+        {
+          "paramId": 6,
+          "value": 26.0
+        }
+      ]
+    },
+    {
+      "plugin": "SubmarineFree",
+      "version": "0.6.4",
+      "model": "TM-105",
+      "pos": [
+        67,
+        0
+      ],
+      "params": []
+    },
+    {
+      "plugin": "SubmarineFree",
+      "version": "0.6.4",
+      "model": "XF-101",
+      "pos": [
+        47,
+        0
+      ],
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 5.0
+        }
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "version": "0.6.0",
+      "model": "VCO",
+      "pos": [
+        31,
+        0
+      ],
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 1,
+          "value": 1.0
+        },
+        {
+          "paramId": 2,
+          "value": -49.4639931
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.5
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "plugin": "SubmarineFree",
+      "version": "0.6.4",
+      "model": "LD-106",
+      "pos": [
+        41,
+        0
+      ],
+      "params": [
+        {
+          "paramId": 0,
+          "value": 5.0
+        },
+        {
+          "paramId": 6,
+          "value": 1.0
+        },
+        {
+          "paramId": 1,
+          "value": 5.0
+        },
+        {
+          "paramId": 7,
+          "value": 1.0
+        },
+        {
+          "paramId": 2,
+          "value": 5.0
+        },
+        {
+          "paramId": 8,
+          "value": 1.0
+        },
+        {
+          "paramId": 3,
+          "value": 5.0
+        },
+        {
+          "paramId": 9,
+          "value": 1.0
+        },
+        {
+          "paramId": 4,
+          "value": 5.0
+        },
+        {
+          "paramId": 10,
+          "value": 1.0
+        },
+        {
+          "paramId": 5,
+          "value": 5.0
+        },
+        {
+          "paramId": 11,
+          "value": 1.0
+        }
+      ],
+      "data": {
+        "voltage0": -5.0,
+        "voltage1": 5.0
+      }
+    },
+    {
+      "plugin": "TorpedoDemo",
+      "version": "0.6.0",
+      "model": "Torpedo Store Demo",
+      "pos": [
+        59,
+        0
+      ],
+      "params": [
+        {
+          "paramId": 0,
+          "value": 0.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.0
+        },
+        {
+          "paramId": 8,
+          "value": 0.0
+        },
+        {
+          "paramId": 9,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "messages": [
+          "PTCH",
+          "{\"plugin\": \"SubmarineFree\", \"module\": \"TDNotesText\", \"patch\": {\"text\": \"Testing Message 1\"}}",
+          "PTCH",
+          "{\"plugin\": \"SubmarineFree\", \"module\": \"TDNotesText\", \"patch\": {\"text\": \"Testing Message 2\"}}",
+          "PTCH",
+          "{\"plugin\": \"SubmarineFree\", \"module\": \"TDNotesText\", \"patch\": {\"text\": \"Testing Message 3\"}}",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "plugin": "SubmarineFree",
+      "version": "0.6.4",
+      "model": "PO-102",
+      "pos": [
+        12,
+        0
+      ],
+      "params": [
+        {
+          "paramId": 0,
+          "value": -51.0600014
+        },
+        {
+          "paramId": 1,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 1.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        }
+      ]
+    }
+  ],
+  "wires": [
+    {
+      "color": "#c91847",
+      "outputModuleId": 1,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 0
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 2,
+      "outputId": 0,
+      "inputModuleId": 0,
+      "inputId": 0
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 3,
+      "outputId": 0,
+      "inputModuleId": 2,
+      "inputId": 0
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 4,
+      "outputId": 3,
+      "inputModuleId": 5,
+      "inputId": 0
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 5,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 2
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 6,
+      "outputId": 0,
+      "inputModuleId": 2,
+      "inputId": 2
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 6,
+      "outputId": 1,
+      "inputModuleId": 2,
+      "inputId": 3
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 6,
+      "outputId": 2,
+      "inputModuleId": 2,
+      "inputId": 4
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 7,
+      "outputId": 0,
+      "inputModuleId": 1,
+      "inputId": 0
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 7,
+      "outputId": 5,
+      "inputModuleId": 1,
+      "inputId": 1
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 7,
+      "outputId": 11,
+      "inputModuleId": 1,
+      "inputId": 2
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 7,
+      "outputId": 8,
+      "inputModuleId": 1,
+      "inputId": 3
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 7,
+      "outputId": 13,
+      "inputModuleId": 1,
+      "inputId": 4
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 7,
+      "outputId": 3,
+      "inputModuleId": 1,
+      "inputId": 5
+    }
+  ]
+}
